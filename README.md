@@ -1,2 +1,2 @@
-codedungeon
+code-dungeon
 ===========
